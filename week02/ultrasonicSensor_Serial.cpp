@@ -1,5 +1,5 @@
-# define TRIG 13 //TRIG 핀, 기호상수 정의
-# define ECHO 12 //ECHO 핀
+#define TRIG 13 //TRIG 핀, 기호상수 정의
+#define ECHO 12 //ECHO 핀
 
 int led_r = 7;
 int led_g = 9;
