@@ -1,5 +1,3 @@
-// C++ code
-//
 int led_r = 7;
 
 void setup()
