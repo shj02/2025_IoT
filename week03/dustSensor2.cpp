@@ -1,5 +1,5 @@
 int Vo = A0;
-int V_LED = 2;
+int V_LED = 12;
 
 float Vo_value=0;
 float Voltage = 0;
@@ -20,7 +20,7 @@ void loop() {
   delayMicroseconds(9680);
 
   Voltage = Vo_value*5.0 / 1023.0;
-  dustDensity = (Voltage - 0.3) / 0.005;
+  dustDensity = (Voltage - 0.5) / 0.005;
 
   Serial.print("dust=");
   Serial.println(Vo_value);
