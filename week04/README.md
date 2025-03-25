@@ -9,6 +9,7 @@ SCL(Serial Clock) : 타이밍(클록)을 동기화 하기 위한 선
 전송 데이터 첫 번째 바이트에 주소 정보 있음
 
 ![Image](https://github.com/user-attachments/assets/0b520197-8603-40a5-83da-18aa922d1fe2)
+
 Start&Stop 상태 조건 비트
 슬리브 장치(112개)에 주소와 읽기/쓰기를 결정하는 비트
 Data 비트
