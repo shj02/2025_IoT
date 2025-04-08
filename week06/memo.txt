@@ -1,0 +1,17 @@
+~ -> /home/PC 의미함
+/ : 최상위 폴더
+
+ls 현재 파일 리스트
+ls -al 모든 파일 리스트(숨김 파일까지 보여줌(all)
+mkdir 디렉터(폴더) 만들기
+cd 이동 (change directory)
+
+vim test.c -> i 누르면 insert 상태
+코드 적고
+esc(command 상태) -> :wq 누르면 나가짐
+gcc -o test test.c
+gcc -o 실행파일 소스파일
+
+test.exe 생성
+
+./test.exe 하면 실행됨
