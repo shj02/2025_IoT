@@ -6,8 +6,11 @@ I2C(Inter_Integrated Circuit) - Inter : 상호 간, 연결된 / Intergrated Circ
 
 
 SDA(Serial Data) : 쿨록 신호에 맞추어 데이터를 주고 받기 위한 선
+
 SCL(Serial Clock) : 타이밍(클록)을 동기화 하기 위한 선
+
 풀업 저항 : I2C 신호선을 기본적으로 HIGH(1)로 유지해주는 역할
+
 전송 데이터 첫 번째 바이트에 주소 정보 있음
 
 
