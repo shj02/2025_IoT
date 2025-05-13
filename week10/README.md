@@ -3,7 +3,7 @@
     sudo apt update  
     sudo apt upgrade
 
-#### 한글 깨짐
+### 한글 깨짐
     sudo apt-get install fonts-unfonts-core -y  
     sudo apt-get install ibus ibus-hangul -y
     sudo reboot
@@ -22,7 +22,7 @@ esc -> :wq
 
     sudo vim /etc/dphys-swapfile
 
-카메라 코드
+### 카메라 코드
 
     import cv2
     impoert sys
