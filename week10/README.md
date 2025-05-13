@@ -22,7 +22,7 @@ esc -> :wq
 
     sudo vim /etc/dphys-swapfile
 
-코드
+카메라 코드
 
     import cv2
     impoert sys
