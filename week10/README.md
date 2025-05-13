@@ -14,3 +14,9 @@
 
 ### 에러 발생(hint: See PEP 668 for the detailed specification.)
     sudo rm /usr/lib/python3.11/EXTERNALLY-MANAGED
+
+### 스왑 메모리 증가(2048)
+i : insert
+esc -> :wq
+
+    sudo vim /etc/dphys-swapfile
