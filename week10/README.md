@@ -55,3 +55,5 @@ esc -> :wq
     pip install python-telegram-bot --upgrade
     git clone https://github.com/python-telegram-bot/python-telegram-bot
     pip install python-telegram-bot[job-queue] --pre
+python-telegram-bot/examples/timerbot.py -> TOKEN 수정
+telegram에서 /start -> /set 시간 -> Beep!
