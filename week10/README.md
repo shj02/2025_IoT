@@ -1,3 +1,4 @@
+<https://github.com/sonnonet/2024_inhatc>  
 ## 라즈베리파이 초기 설정
     sudo apt update  
     sudo apt upgrade
