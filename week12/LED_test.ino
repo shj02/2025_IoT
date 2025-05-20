@@ -22,7 +22,7 @@ void loop() {
   Voltage = Vo_value*5.0 / 1023.0;
   dustDensity = (Voltage - 0.5) / 0.005;
 
-  Serial.println(dustDensity);
+  Serial.println(Vo_value);
 
   delay(1000);
 }
